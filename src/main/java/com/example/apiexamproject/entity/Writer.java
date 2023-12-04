@@ -23,11 +23,4 @@ public class Writer {
     @Column(name = "writer_name")
     private String writerName;
 
-
-//    @OneToMany(mappedBy = "writer")
-//    @JsonIgnore
-//    private List<Book> books;
-//
-//    public Writer(String name) {
-//    }
 }

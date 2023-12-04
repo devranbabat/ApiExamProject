@@ -1,0 +1,49 @@
+// Save Metodunun çıktısı
+{
+    "information": "Başarıyla Kaydedildi",
+    "book": {
+            "id": 4,
+            "name": "kitap1",
+            "page": 110,
+            "about": "kitap hakkında"
+            }
+}
+
+// Update Metodunun çıktısı
+
+{
+  "information": "Başarıyla güncellendi.",
+  "book": {
+        "id": 3,
+        "name": "kitap4",
+        "page": 111,
+        "about": "kitap hakkında"
+           }
+}
+// List Metodunun çıktısı
+[
+  {
+    "id": 3,
+    "name": "kitap4",
+    "page": 111,
+    "about": "kitap hakkında"
+  },
+  {
+    "id": 4,
+    "name": "kitap1",
+    "page": 110,
+    "about": "kitap hakkında"
+  },
+  {
+    "id": 5,
+    "name": "kitap2",
+    "page": 110,
+    "about": "kitap hakkında"
+  },
+  {
+    "id": 6,
+    "name": "kitap3",
+    "page": 110,
+    "about": "kitap hakkında"
+  }
+]
